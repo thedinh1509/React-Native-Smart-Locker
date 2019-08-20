@@ -7,7 +7,7 @@ Its topic is "Smart Acess Control System Based on Embedded System Raspberry Pi B
 
 The thesis is divided into 3 parts: hardware, server and mobile app.
 
-In here, there is a whole code for mobile app, not including server code.
+In here, there is whole code for mobile app, not including server and hardware code.
 
 Functions of the app: login, register account, register locker, get password of locker in different forms, see profile.
 
