@@ -11,4 +11,4 @@ In here, there is whole code for mobile app, not including server and hardware c
 
 Functions of the app: login, register account, register locker, get password of locker in different forms, see profile.
 
-The screenshots of the app also attached.
+The screenshots of the app is also attached.
